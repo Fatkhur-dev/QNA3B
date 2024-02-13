@@ -4,7 +4,7 @@ import {privateKeysRandom, ProxyType, Network} from "./utilities/interfaces.js";
 // http or socks
 export const PROXY_TYPE: ProxyType = "http";
 
-export const REFF_CODE = "n7YYzpG4";
+export const REFF_CODE = "TzWRWRsn";
 
 export const CLAIM_REWARDS = false;
 
